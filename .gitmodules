@@ -1,0 +1,7 @@
+[submodule "lib/SdFat"]
+	path = lib/SdFat
+	url = https://github.com/greiman/SdFat.git
+[submodule "lib/TTGO_TWatch_Library"]
+	path = lib/TTGO_TWatch_Library
+	url = git@github.com:SkUrRiEr/TTGO_TWatch_Library.git
+	branch = naomi-wu-airtag-ble-scan
